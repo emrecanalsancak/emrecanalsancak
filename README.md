@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Emre 👋</h1>
 <h3 align="center">Aspiring Data Scientist | Learning and Growing</h3>
 
-- 🌱 I’m currently learning at **Miuul Data Scientist Bootcmap**
+- 🌱 I’m currently learning at **Miuul Data Scientist Bootcamp**
 
 - 👨‍💻 All of my projects are available at [https://ecalsancak.com](https://ecalsancak.com)
 
