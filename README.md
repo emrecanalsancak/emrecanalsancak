@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Emre 👋</h1>
 <h3 align="center">Aspiring Data Scientist | Learning and Growing</h3>
 
-- 🌱 I’m currently learning at **Miuul Data Scientist Bootcamp**
+- 🌱 I’m currently learning at **Miuul Data Scientist Bootcmap**
 
 - 👨‍💻 All of my projects are available at [https://ecalsancak.com](https://ecalsancak.com)
 
@@ -19,4 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecanalsancak&show_icons=true&locale=en&layout=compact" alt="emrecanalsancak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrecanalsancak&show_icons=true&locale=en" alt="emrecanalsancak" /></p>
-
